@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pacyno\\SakuraAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|c:\\users\\pacyno\\sakuraai\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|C:\\Users\\Pacyno\\SakuraAI\\assets\\scripts\\sakuraai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sakuraai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|C:\\Users\\Pacyno\\SakuraAI\\assets\\scripts\\thirdpersonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|C:\\Users\\Pacyno\\SakuraAI\\assets\\scripts\\simplelipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplelipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|C:\\Users\\Pacyno\\SakuraAI\\assets\\scripts\\chatpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chatpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|C:\\Users\\Pacyno\\SakuraAI\\assets\\scripts\\personalavatarloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\personalavatarloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|C:\\Users\\Pacyno\\SakuraAI\\assets\\scripts\\simplejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatPanelController.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ChatPanelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChatPanelController.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ChatPanelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChatPanelController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:05:08.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleLipSync.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SimpleLipSync.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleLipSync.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SimpleLipSync.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleLipSync.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:30:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalAvatarLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\PersonalAvatarLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersonalAvatarLoader.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\PersonalAvatarLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersonalAvatarLoader.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:24:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleJSON.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SimpleJSON.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleJSON.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SimpleJSON.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleJSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:28:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:26:47.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SakuraAI.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SakuraAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SakuraAI.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SakuraAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SakuraAI.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAowD4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:26:35.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThirdPersonLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ThirdPersonLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonLoader.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ThirdPersonLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonLoader.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwGwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:25:12.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
