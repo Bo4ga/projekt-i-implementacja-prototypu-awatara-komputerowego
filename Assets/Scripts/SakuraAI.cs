@@ -13,9 +13,7 @@ using TMPro;
 
 public class SakuraAI : MonoBehaviour
 {
-    [Header("OpenAI Settings")]
-    public string openAiApiKey = "YOUR_OPENAI_API_KEY";
-    public string model = "gpt-3.5-turbo";
+
 
     [Header("Wake Word Settings")]
     public string[] wakeWords = { "ok sakura", "okay sakura", "okej sakura" };

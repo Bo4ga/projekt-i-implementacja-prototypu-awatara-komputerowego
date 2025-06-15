@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Pacyno\\SakuraAI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|c:\\users\\pacyno\\sakuraai\\assets\\scripts\\returnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\returnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|c:\\users\\pacyno\\sakuraai\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF1E7B65-E16B-A6CB-9B15-4AAA0CD8AFC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ReturnButton.cs",
+              "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ReturnButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReturnButton.cs",
+              "ToolTip": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ReturnButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReturnButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:09:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ChatPanelController.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ChatPanelController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChatPanelController.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SimpleLipSync.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SimpleLipSync.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleLipSync.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PersonalAvatarLoader.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\PersonalAvatarLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PersonalAvatarLoader.cs",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SimpleJSON.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SimpleJSON.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleJSON.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SakuraAI.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\SakuraAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SakuraAI.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ThirdPersonLoader.cs",
               "DocumentMoniker": "C:\\Users\\Pacyno\\SakuraAI\\Assets\\Scripts\\ThirdPersonLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonLoader.cs",
