@@ -1,0 +1,25 @@
+
+
+Interactive AI-powered 3D avatar assistant built in Unity and integrated with the OpenAI API to provide intelligent conversation, voice interaction, and real-time facial animation.
+The project combines artificial intelligence, speech recognition, text-to-speech synthesis, and a Ready Player Me avatar to create a dynamic and immersive virtual assistant experience.
+
+The assistant is capable of listening to the user through speech-to-text using Unity’s DictationRecognizer, processing natural language requests via OpenAI models, and responding both visually and audibly using OpenAI’s text-to-speech system.
+The generated speech is synchronized with the avatar’s facial blendshapes (jawOpen) to achieve real-time lip sync, creating a more natural and human-like interaction.
+
+SakuraAI supports both voice and text input through a custom-built chat panel interface. Users can either speak to the avatar using a wake word system or type messages directly into the chat window.
+The assistant processes requests using models such as GPT-4o and generates contextual, intelligent responses.
+The system also includes logic to handle audio conflicts, automatic speech recognizer restarts, and synchronization between listening and speaking states to ensure stable operation.
+
+The avatar is dynamically loaded using the Ready Player Me SDK, allowing customizable 3D characters.
+Animations are controlled through a custom Animator Controller, and additional improvements have been implemented to reduce unnatural head movement and enhance idle behavior.
+The project also features a minimalist, futuristic UI design to match the modern AI assistant concept.
+
+When asked identity-related questions such as “Who are you?”, “What are you?”, or “Why were you made?”, the assistant is programmed to respond consistently with:
+"I'm Personal Assistant made by Boguslav Pacyno to assist you in your work or have a chat."
+
+The goal of SakuraAI is to create a personal AI assistant embodied in a realistic 3D avatar that can assist with tasks, hold natural conversations, present information, and provide engaging, human-like interaction.
+The project demonstrates integration between Unity, real-time 3D animation systems, external AI APIs, voice technologies, and interactive UI systems.
+
+Future development may include emotion-based facial expressions, improved animation blending during speech, memory-enhanced conversations, presentation narration mode, and multi-platform deployment.
+
+SakuraAI represents a combination of AI engineering, real-time graphics, and interactive system design, showcasing how artificial intelligence can be embodied within a visually expressive digital character.
