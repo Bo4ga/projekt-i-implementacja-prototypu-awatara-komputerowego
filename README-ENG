@@ -1,4 +1,10 @@
+To ensure security and compliance with GitHub policies, the section containing the OpenAI API key has been removed from the repository.
+If you would like to run the project locally, please contact me via email. I will provide a version of the file containing the required key:
+boguslav.pacyno@gmail.com
+Note: The key is shared strictly for testing and educational purposes only. Further distribution or use in commercial projects is strictly prohibited.
 
+
+Summary of the thesis:
 
 Interactive AI-powered 3D avatar assistant built in Unity and integrated with the OpenAI API to provide intelligent conversation, voice interaction, and real-time facial animation.
 The project combines artificial intelligence, speech recognition, text-to-speech synthesis, and a Ready Player Me avatar to create a dynamic and immersive virtual assistant experience.
